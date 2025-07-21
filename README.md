@@ -1,4 +1,4 @@
-Aplicação frontend feita com Angular, HTML, SCSS, JavaScript, JSON, TypeScript, Java e framework Spring.
+Aplicação frontend feita com Angular, HTML, SCSS, JavaScript, JSON e TypeScript.
 
 Comandos:
 
@@ -11,6 +11,8 @@ npm start
 ng generate component components/default-login-layout
 
 ng generate component pages/login
+
+ng generate component components/primary-input
 
 # LoginPage
 
