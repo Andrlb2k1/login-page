@@ -1,14 +1,14 @@
-Aplicação frontend feita com Angular, HTML, CSS, SCSS, JavaScript, JSON, TypeScript, Java e framework Spring.  
+Aplicação frontend feita com Angular, HTML, CSS, SCSS, JavaScript, JSON, TypeScript, Java e framework Spring.
 
-Comandos:  
+Comandos:
 
-npm install -g @angular/cli@17  
+npm install -g @angular/cli@17
 
-ng new login-page (SCSS / No SSR and SSG)  
+ng new login-page (SCSS / No SSR and SSG)
 
-npm start  
+npm start
 
-ng generate component components/default-login-layout  
+ng generate component components/default-login-layout
 
 ng generate component pages/login
 
