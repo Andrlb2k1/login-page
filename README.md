@@ -1,4 +1,4 @@
-Aplicação frontend feita com Angular, HTML, CSS, SCSS, JavaScript, JSON, TypeScript, Java e framework Spring.
+Aplicação frontend feita com Angular, HTML, SCSS, JavaScript, JSON, TypeScript, Java e framework Spring.
 
 Comandos:
 
