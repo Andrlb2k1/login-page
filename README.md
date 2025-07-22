@@ -1,4 +1,4 @@
-Aplicação frontend feita com Angular, HTML, SCSS, JavaScript, JSON e TypeScript.
+Aplicação frontend feita com Angular, HTML, SCSS, JSON e TypeScript.
 
 Comandos:
 
