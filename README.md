@@ -14,6 +14,8 @@ ng generate component pages/login
 
 ng generate component components/primary-input
 
+ng generate service services/login
+
 Links:
 
 https://fonts.google.com/?query=poppins
