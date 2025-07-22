@@ -14,6 +14,10 @@ ng generate component pages/login
 
 ng generate component components/primary-input
 
+Links:
+
+https://fonts.google.com/?query=poppins
+
 # LoginPage
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
