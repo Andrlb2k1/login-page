@@ -16,6 +16,8 @@ ng generate component components/primary-input
 
 ng generate service services/login
 
+npm install ngx-toastr
+
 Links:
 
 https://fonts.google.com/?query=poppins
