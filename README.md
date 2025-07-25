@@ -18,9 +18,15 @@ ng generate service services/login
 
 npm install ngx-toastr
 
+ng generate component pages/user
+
+ng generate service services/auth-guard
+
 Links:
 
 https://fonts.google.com/?query=poppins
+
+https://start.spring.io/
 
 # LoginPage
 
